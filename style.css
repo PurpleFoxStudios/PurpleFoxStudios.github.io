@@ -1,0 +1,16 @@
+body {
+    background-color: #090F29;
+}
+h1 {
+    color: white;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.centerText {
+    text-align:center;
+}
